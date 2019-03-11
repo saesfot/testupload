@@ -1,2 +1,2 @@
 # inventory_management
-This is the repository of the 
+tomado de https://github.com/vinpalace/inventory_management con modificación para cargar el csv desde la interfaz.
